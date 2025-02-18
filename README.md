@@ -15,7 +15,7 @@ npm install
 
 Run the game locally:
 To start the game, run:
-npm start
+npm run dev
 
 The game will be accessible in your browser at http://localhost:3000.
 
