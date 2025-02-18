@@ -6,7 +6,7 @@ How to Run the Project
 Clone the repository:
 
 
-git clone https://github.com/your-username/spacedash.git
+git clone https://github.com/shaju03/spacedash.git
 Navigate to the project directory:
 
 
