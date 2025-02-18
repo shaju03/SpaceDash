@@ -4,24 +4,19 @@ SpaceDash is a fast-paced, side-scrolling space adventure game where players nav
 
 How to Run the Project
 Clone the repository:
-
-
 git clone https://github.com/shaju03/spacedash.git
+
 Navigate to the project directory:
-
-
 cd spacedash
+
 Install dependencies:
-
 Make sure you have Node.js installed. Then, install the necessary dependencies:
-
-
 npm install
+
 Run the game locally:
-
 To start the game, run:
-
 npm start
+
 The game will be accessible in your browser at http://localhost:3000.
 
 Technologies Used
